@@ -52,7 +52,7 @@ const Contact = () => {
     {
       icon: <Linkedin size={24} />,
       name: "LinkedIn",
-      url: "https://linkedin.com/in/arunachalam-k",
+      url: "https://www.linkedin.com/in/arunachalam-k-561794228/",
       color: "hover:text-blue-600"
     },
     {
